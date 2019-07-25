@@ -1,0 +1,13 @@
+{
+  "@context": "https://identiverse-bookstore.azurewebsites.net/credential/v1",
+  "@type": [
+    "ClaimObject",
+    "DiscountOffer"
+  ],
+  "issuerName": "Mercy Housing",
+  "claimName": "20% Bookstore Discount",
+  "claimLogo": "https://identiverse-bookstore.azurewebsites.net/books.svg",
+  "hexBackgroundColor": "#800000",
+  "requiredClaimName": "Verified Student"
+}
+
